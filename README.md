@@ -2,6 +2,7 @@
 # Ecommerce Sales Analysis Dashboard
 
 Developed an interactive dashboard in Power BI to visualize e-commerce sales data. The dashboard helps monitor KPIs such as total revenue, order volume, regional trends, and top-performing product categories.
+![image](https://github.com/user-attachments/assets/a2b600f4-c2f9-44d5-bcb1-e08955976621)
 
 ## Tools & Technologies
 - Power BI
